@@ -1,5 +1,5 @@
 # Trickshot
-A MYSQL plugin that allows RCE through the MYSQL Server
+MYSQL plugin that allows RCE through a query
 
 # Installation
 To install this lovely plugin first you must first compile it to a shared object like below.
