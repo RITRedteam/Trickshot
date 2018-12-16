@@ -46,4 +46,4 @@ For those curious, if one were to setup a reverse shell from this exploit and a 
 ```
 
 # Resources
-[The official MYSQL UDF References](https://dev.mysql.com/doc/refman/8.0/en/adding-udf.html)))
+[The official MYSQL UDF References](https://dev.mysql.com/doc/refman/8.0/en/adding-udf.html)
