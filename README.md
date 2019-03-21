@@ -14,7 +14,7 @@ Then you must copy the `.so` file to the MYSQL plugin directory like so:
 cp -f tg.so /usr/lib64/mysql/plugin/
 ```
 
-Then remove into your MYSQL server and run the following query:
+Then remote into your MYSQL server and run the following query:
 
 ```
 CREATE FUNCTION trickshot RETURNS STRING SONAME "tg.so";
